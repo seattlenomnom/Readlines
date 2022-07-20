@@ -1,4 +1,4 @@
 # makefile for readlines
 #
-readLines : readLinees.c
-	gcc -g readLines.c -o ./Build/readLines
+readlines : readlines.c
+	gcc -g readlines.c -o ./Build/readlines
