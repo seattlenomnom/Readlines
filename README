@@ -1,0 +1,11 @@
+/* README for inputlines
+*     Inputlines reads in a line of text including spaces. Gets 3 lines of
+*  text, then terminates.
+*
+*  Example program from Kochan, Stephen G., "Programming in C 3rd ed.",
+*  Sams Publishing.
+*
+*  Programmer: Mark Crapser
+*
+*
+*/
